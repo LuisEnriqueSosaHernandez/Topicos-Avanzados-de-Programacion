@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.property.order.ReorderDialog">
+		<item value="704" key="x"/>
+		<item value="520" key="width"/>
+		<item value="215" key="y"/>
+		<item value="366" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item value="571" key="x"/>
+		<item value="795" key="width"/>
+		<item value="163" key="y"/>
+		<item value="442" key="height"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\pc\Documents\Universidad\cuarto semestre\TPA\curso\BotonPersonalizadoJar\export\BotonPersonalizadoJar.jar"/>
+			<item value="C:\Users\pc\Documents\Universidad\cuarto semestre\TPA\curso\BotonPersonalizadoJar\export\BotonPersonalizado.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.actions.errors.ErrorsDialog">
+		<item value="682" key="x"/>
+		<item value="684" key="width"/>
+		<item value="63" key="y"/>
+		<item value="646" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.PaletteManagerDialog">
+		<item value="695" key="x"/>
+		<item value="525" key="width"/>
+		<item value="126" key="y"/>
+		<item value="516" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item value="699" key="x"/>
+		<item value="530" key="width"/>
+		<item value="225" key="y"/>
+		<item value="346" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.CategoryAddDialog">
+		<item value="695" key="x"/>
+		<item value="525" key="width"/>
+		<item value="189" key="y"/>
+		<item value="389" key="height"/>
+	</section>
+</section>

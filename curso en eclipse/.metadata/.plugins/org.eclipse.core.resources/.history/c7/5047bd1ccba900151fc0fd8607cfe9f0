@@ -1,0 +1,42 @@
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+//import java.awt.FlowLayout;
+
+import javax.swing.JButton;
+import javax.swing.JPanel;
+public class VentanaGestorNulo extends JFrame implements ActionListener{
+	public VentanaGestorNulo(){
+	super("Ventana con Gestor Nulo y usando setBounds");
+	setSize(500,500);
+	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	JButton btnAceptar=new JButton("Aceptar");
+	JButton btnCancelar =new JButton("Cancelar");
+	//FlowLayout gestor=new FlowLayout();
+	JPanel pnlCont=new JPanel(null);
+	//ubicar botones
+	//setBounds(pos x,pos y,ancho x,alto y)
+	btnAceptar.setBounds(100,50,100,30);
+	btnCancelar.setBounds(100, 90, 100, 30);
+	pnlCont.add(btnAceptar);
+	pnlCont.add(btnCancelar);
+	setContentPane(pnlCont);
+	//Agregamos el escuchador al boton
+	btnAceptar.addActionListener(this);
+	btnCancelar.addActionListener(this);
+	setVisible(true);
+	}
+	public static void main(String[]args){
+		VentanaGestorNulo v=new VentanaGestorNulo();
+	}
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		JOptionPane.showMessageDialog(null, "Pulsaste el boton");
+		
+		
+	}
+
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<moveEntry
+		id="org.eclipse.wb.swing.components javax.swing.JLabel"
+		category="org.eclipse.wb.swing.components"/>
+	<addCategory
+		id="custom_1452105516764"
+		name="BotonPersonalizado"
+		description="Hecho por mi"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452105642982"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452105516764"/>
+	<removeCategory
+		id="custom_1452105516764"/>
+	<addCategory
+		id="custom_1452105862181"
+		name="BotonPersonalizado"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452105944348"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452105862181"/>
+	<removeCategory
+		id="custom_1452105862181"/>
+	<addCategory
+		id="custom_1452106204690"
+		name="BotonPersonalizado"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452106226596"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452106204690"/>
+	<removeCategory
+		id="custom_1452106204690"/>
+	<addCategory
+		id="custom_1452106388036"
+		name="BotonPersonalizado"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452106413141"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452106388036"/>
+	<removeEntry
+		id="Clases.BotonPersonalizadoJar_1452106413141"/>
+	<removeCategory
+		id="custom_1452106388036"/>
+	<addCategory
+		id="custom_1452106778942"
+		name="BotonPersonalizado"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452106802973"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452106778942"/>
+	<removeEntry
+		id="Clases.BotonPersonalizadoJar_1452106802973"/>
+	<removeCategory
+		id="custom_1452106778942"/>
+	<addCategory
+		id="custom_1452107270623"
+		name="BotonPersonalizado"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452107298888"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452107270623"/>
+	<removeEntry
+		id="Clases.BotonPersonalizadoJar_1452107298888"/>
+	<removeCategory
+		id="custom_1452107270623"/>
+	<addCategory
+		id="custom_1452107647701"
+		name="BotonPersonalizadoJar"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJar_1452107676464"
+		name="BotonPersonalizadoJar"
+		description="Custom component: Clases.BotonPersonalizadoJar"
+		visible="true"
+		class="Clases.BotonPersonalizadoJar"
+		category="custom_1452107647701"/>
+	<addComponent
+		id="Clases.BotonPersonalizadoJarBeanInfo_1452107676464"
+		name="BotonPersonalizadoJarBeanInfo"
+		description="Custom component: Clases.BotonPersonalizadoJarBeanInfo"
+		visible="true"
+		class="Clases.BotonPersonalizadoJarBeanInfo"
+		category="custom_1452107647701"/>
+	<removeCategory
+		id="custom_1452107647701"/>
+</commands>

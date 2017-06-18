@@ -1,0 +1,23 @@
+import javax.swing.JFrame;
+
+//import java.awt.FlowLayout;
+
+import javax.swing.JButton;
+import javax.swing.JPanel;
+public class VentanaGestorNulo extends JFrame{
+	public VentanaGestorNulo(){
+	super("Ventana con Gestor Nulo y usando setBounds");
+	setSize(500,500);
+	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	JButton btnAceptar=new JButton();
+	JButton btnCancelar =new JButton();
+	//FlowLayout gestor=new FlowLayout();
+	JPanel pnlCont=new JPanel(null);
+	//
+	
+	}
+	public static void main(String[]args){
+		
+	}
+
+}
